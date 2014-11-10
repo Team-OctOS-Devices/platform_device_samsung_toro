@@ -6,9 +6,9 @@
     "revision": "cm-11.0"
   },
   {
-    "remote": "cm",
-    "repository": "android_device_samsung_tuna",
+    "remote": "ok",
+    "repository": "platform_device_samsung_tuna",
     "target_path": "device/samsung/tuna",
-    "revision": "cm-11.0"
+    "revision": "kk-4.4"
   }
 ]
